@@ -4,10 +4,10 @@ export const config = {
    */
 
   // 公众号APP_ID
-  APP_ID: "",
+  APP_ID: "wxba9613676cf9521a",
 
   // 公众号APP_SECRET
-  APP_SECRET: "",
+  APP_SECRET: "1b891af299b8ad529f0a847e09d5ee7e",
 
   /**
    * 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如
@@ -16,7 +16,7 @@ export const config = {
    *    // 想要发送的人的名字
    *    name: "老婆0",
    *    // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-   *    id: "ohxOO6VskYv0Kuf-ywIZVRMpuXhk",
+   *    id: "oMnd76KpJ4R-Hr_dyzw4z0kWWBgg",
    *    // 你想对他发送的模板消息的模板ID
    *    useTemplateId: "zjVglIuCXo4CsraXWEio1iP7sZJ7IQEES9lDsgc4yOU",
    *    // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
@@ -29,7 +29,7 @@ export const config = {
       // 想要发送的人的名字
       name: "老婆0",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "ohxO123O6Vsk2Yv0Kuf-ywIZ3VRMpuXhk",
+      id: "oMnd76KpJ4R-Hr_dyzw4z0kWWBgg",
       // 你想对他发送的模板消息的模板ID
       useTemplateId: "Wue80GrtY1nAia4tam-FDxZF9WNx9pwcBc0LMpANnu8",
       // 所在省份
@@ -38,31 +38,7 @@ export const config = {
       city: "肇庆",
       // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
       openUrl: "https://wangxinleo.cn"
-    }, 
-    {
-      name: "老婆1", 
-      id: "ohxOO6VskYv0Kuf-ywIZVRMpuXhk",
-      useTemplateId: "Wue80GrtY1nAia4tam-FDxZF9WNx9pwcBc0LMpANnu8",
-      province: "广东",
-      city: "河源",
-      openUrl: "https://baidu.com"
-    }, 
-    {
-      name: "老婆2",
-      id: "ohxOO6VskYv0Kuf-ywIZVRMpuXhk",
-      useTemplateId: "Wue80GrtY1nAia4tam-FDxZF9WNx9pwcBc0LMpANnu8",
-      province: "广东",
-      city: "广州",
-      openUrl: "https://weibo.com"
-    }, 
-    {
-      name: "老婆3", 
-      id: "ohxOO6VskYv0Kuf-ywIZVRMpuXhk", 
-      useTemplateId: "Wue80GrtY1nAia4tam-FDxZF9WNx9pwcBc0LMpANnu8",
-      province: "",
-      city: "",
-      openUrl: "https://wangxinleo.cn"
-    }, 
+    },
   ],
 
   /**
@@ -78,7 +54,7 @@ export const config = {
       // 一般都填自己
       name: "自己",
       // 自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "ohxOO36VskY3v0Kuf-ywIZVR3MpuXhk",
+      id: "oMnd76KpJ4R-Hr_dyzw4z0kWWBgg",
     }, 
   ],
     
